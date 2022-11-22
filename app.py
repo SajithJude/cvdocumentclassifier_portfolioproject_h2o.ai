@@ -41,7 +41,7 @@ def load_model(model_name):
 
 def main():
 
-    st.title("Transformers Interpet Demo App")
+    st.title("CV document classification app")
 
     models = {
         "sampathkethineedi/industry-classification": "DistilBERT Model to classify a business description into one of 62 industry tags.",
