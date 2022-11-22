@@ -2,7 +2,7 @@ import asyncio
 import gc
 import logging
 import os
-import pdfminer
+# import pdfminer
 # from pdfminer.high_level import extract_pages
 from pdfminer.high_level import extract_text
 import pandas as pd
